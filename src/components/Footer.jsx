@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="flex items-center space-x-4 text-xs font-semibold text-slate-300">
             <span>Submitted By: Vivek Maddheshiya & Vivek Sharma</span>
             <span>•</span>
-            <span>Guided By: Mrs. Pooja</span>
+            <span>Guided By: Mrs. Nidhi</span>
           </div>
         </div>
 

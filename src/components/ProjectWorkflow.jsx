@@ -22,7 +22,7 @@ export default function ProjectWorkflow() {
           </div>
           <div className="bg-white/5 px-4 py-2 rounded-xl border border-white/10">
             <span className="text-slate-400 block">Submitted To:</span>
-            <strong className="text-white text-sm">Mrs. Pooja</strong>
+            <strong className="text-white text-sm">Mrs. Nidhi</strong>
           </div>
         </div>
       </div>

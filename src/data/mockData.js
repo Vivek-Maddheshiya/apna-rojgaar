@@ -140,7 +140,7 @@ export const PROJECT_INFO = {
   title: "ApnaRojgaar.com - Online Job Portal",
   subtitle: "GL Bajaj Institute of Technology & Management (Second Year Project)",
   submittedBy: ["Vivek Maddheshiya", "Vivek Sharma"],
-  submittedTo: "Mrs. Pooja",
+  submittedTo: "Mrs. Nidhi",
   institution: "GL Bajaj Institute of Technology & Management",
   problemStatements: [
     "Traditional recruitment methods suffer from high paperwork and delayed responses.",

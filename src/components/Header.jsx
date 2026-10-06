@@ -15,7 +15,7 @@ export default function Header({ currentTab, setCurrentTab, userRole, setUserRol
         <div className="flex items-center space-x-4">
           <span>Submitted by: <strong className="text-white">Vivek Maddheshiya & Vivek Sharma</strong></span>
           <span className="hidden sm:inline text-slate-500">|</span>
-          <span className="hidden sm:inline">Guide: <strong className="text-white">Mrs. Pooja</strong></span>
+          <span className="hidden sm:inline">Guide: <strong className="text-white">Mrs. Nidhi</strong></span>
         </div>
       </div>
 
